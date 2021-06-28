@@ -1,4 +1,4 @@
-name: Master CICD
+name: Prueba
 
 on:
   push:
